@@ -46,7 +46,7 @@ Precalculus
 - [ ]  Course: ~~[Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)~~
 - [ ]  Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) 
 - [ ]  Course: ~~[HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)~~
-- [ ]  Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
+- [ ]  Course: ~~[HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)~~
 
 ## Tier 2 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
