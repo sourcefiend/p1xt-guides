@@ -163,7 +163,7 @@ Yes, yes I do:
   - For when you need a quick/fun productive break that teaches you how to use CSS to layout a site (revisit this section in Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.)
     - [CSS Diner](https://flukeout.github.io/)
     - ~~[FlexBox Defense](http://www.flexboxdefense.com/)~~
-    - [FlexBox Froggy](http://flexboxfroggy.com/)
+    - ~~[FlexBox Froggy](http://flexboxfroggy.com/)~~
     - [Grid Garden](http://cssgridgarden.com/)
     - [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
   - For when you need a quick/fun productive break in which you also practice JavaScript
