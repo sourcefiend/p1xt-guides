@@ -14,7 +14,7 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 **Clone one or more of the following Website Templates (or the frontend of any website or theme you like) as a web or mobile app:**
 
-- [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/), include all features (hover effects, animations, pages, etc)
+- ~~[this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/), include all features (hover effects, animations, pages, etc)~~
 - [this theme](https://blackrockdigital.github.io/startbootstrap-agency/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://blackrockdigital.github.io/startbootstrap-resume/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/), include all features (hover effects, animations, pages, etc)
